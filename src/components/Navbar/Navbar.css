@@ -1,0 +1,28 @@
+.Navbar {
+  background-color: #fff;
+  padding: 1rem;
+  border: 1px solid #478194;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #478194;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+a:hover {
+  color: #264e5c;
+}
